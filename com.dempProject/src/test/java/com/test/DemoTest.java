@@ -9,5 +9,12 @@ public class DemoTest {
 	{
 		System.out.println("Hello Rahul");
 	}
+	
+	@Test
+	public void test02()
+	{
+		System.out.println("Jai Maharshtra Jenkins Bhau");
+	}
+
 
 }
