@@ -2,7 +2,7 @@ package com.test;
 
 import org.testng.annotations.Test;
 
-public class DemoTest {
+public class DemoTest2 {
 	
 	@Test
 	public void test01()
@@ -13,7 +13,7 @@ public class DemoTest {
 	@Test
 	public void test02()
 	{
-		System.out.println("Welcome to India");
+		System.out.println("Jenkins");
 	}
 
 
